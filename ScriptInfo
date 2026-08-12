@@ -1,0 +1,462 @@
+  ScriptInfo @0x568470
+                                                                                                                    - _name: C:/TFB/Content/Levels/Penguins/Scripts/Penguins_First-Items.ai
+                                                                                                                    - _directory: None
+                                                                                                                    - _resolveState: True
+                                                                                                                    - _getFunc: 30114719
+                                                                                                                    - _setFunc: 00000000
+                                                                                                                    - _resetFunc: 00000000
+                                                                                                                    - _opList ->
+
+                                                                                                                        OpCodeList @0x568498
+                                                                                                                            - _count: 143
+                                                                                                                            - _capacity: 143
+                                                                                                                            - _data: {'size': 572, 'data': <ref 0x5684b0>}
+
+                                                                                                                            OpPreScript @0x5686ec
+                                                                                                                                - _name: PRESCRIPT
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 1
+                                                                                                                                - _branchPC: 39
+
+                                                                                                                            OpStartUp @0x568714
+                                                                                                                                - _name: STARTUP
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 1
+                                                                                                                                - _branchPC: 35
+
+                                                                                                                            OpSetValue @0x56873c
+                                                                                                                                - _name: set value||=
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+                                                                                                                                    ValueStack @0x531798 (already shown)
+                                                                                                                                - _RHS ->
+                                                                                                                                    ValueRHSVariant @0x532030 (already shown)
+
+                                                                                                                            OpSetValue @0x568768
+                                                                                                                                - _name: set value||=
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+                                                                                                                                    ValueStack @0x531668 (already shown)
+                                                                                                                                - _RHS ->
+                                                                                                                                    ValueRHSVariant @0x531690 (already shown)
+
+                                                                                                                            OpSetValue @0x568794
+                                                                                                                                - _name: set value||=
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+                                                                                                                                    ValueStack @0x531700 (already shown)
+                                                                                                                                - _RHS ->
+                                                                                                                                    ValueRHSVariant @0x531728 (already shown)
+
+                                                                                                                            OpSetValue @0x5687c0
+                                                                                                                                - _name: set value||=
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+
+                                                                                                                                    ValueStack @0x5687ec
+                                                                                                                                        - _count: 3
+                                                                                                                                        - _capacity: 3
+                                                                                                                                        - _data: {'size': 12, 'data': <ref 0x568808>}
+                                                                                                                                        - _otherPoint: None
+                                                                                                                                - _RHS ->
+
+                                                                                                                                    ValueRHSVariant @0x568814
+                                                                                                                                        - _varOp1 ->
+
+                                                                                                                                            RHSValueStack @0x568830
+                                                                                                                                                - _count: 0
+                                                                                                                                                - _capacity: 0
+                                                                                                                                                - _data: {'size': 0, 'data': None}
+                                                                                                                                                - _otherPoint: None
+                                                                                                                                                - _type: {'__external__': 146}
+                                                                                                                                                - _value: 100
+                                                                                                                                                - _isRandom: False
+                                                                                                                                        - _arithOperator: -1
+                                                                                                                                        - _varOp2: None
+                                                                                                                                        - _resultFunc: e01e4919
+                                                                                                                                        - _conditioner: None
+
+                                                                                                                            OpSetValue @0x568858
+                                                                                                                                - _name: set value||=
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+
+                                                                                                                                    ValueStack @0x568884
+                                                                                                                                        - _count: 3
+                                                                                                                                        - _capacity: 3
+                                                                                                                                        - _data: {'size': 12, 'data': <ref 0x5688a0>}
+                                                                                                                                        - _otherPoint: None
+                                                                                                                                - _RHS ->
+
+                                                                                                                                    ValueRHSVariant @0x5688ac
+                                                                                                                                        - _varOp1 ->
+
+                                                                                                                                            RHSValueStack @0x5688c8
+                                                                                                                                                - _count: 0
+                                                                                                                                                - _capacity: 0
+                                                                                                                                                - _data: {'size': 0, 'data': None}
+                                                                                                                                                - _otherPoint: None
+                                                                                                                                                - _type: {'__external__': 173}
+                                                                                                                                                - _value: 1072064102
+                                                                                                                                                - _isRandom: False
+                                                                                                                                        - _arithOperator: -1
+                                                                                                                                        - _varOp2: None
+                                                                                                                                        - _resultFunc: e01e4919
+                                                                                                                                        - _conditioner: None
+
+                                                                                                                            OpSetValue @0x5688f0
+                                                                                                                                - _name: set value||=
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+
+                                                                                                                                    ValueStack @0x56891c
+                                                                                                                                        - _count: 3
+                                                                                                                                        - _capacity: 3
+                                                                                                                                        - _data: {'size': 12, 'data': <ref 0x568938>}
+                                                                                                                                        - _otherPoint: None
+                                                                                                                                - _RHS ->
+                                                                                                                                    ValueRHSVariant @0x532030 (already shown)
+
+                                                                                                                            OpSetReference @0x568944
+                                                                                                                                - _name: set *reference||to
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+
+                                                                                                                                    ReferenceStack @0x568974
+                                                                                                                                        - _count: 1
+                                                                                                                                        - _capacity: 1
+                                                                                                                                        - _data: {'size': 4, 'data': <ref 0x56898c>}
+
+                                                                                                                                        OpCreateVariable @0x568990
+                                                                                                                                            - _name: create variable||with|members
+                                                                                                                                            - _directory: None
+                                                                                                                                            - _resolveState: True
+                                                                                                                                            - _getFunc: 80c14819
+                                                                                                                                            - _setFunc: c0c14819
+                                                                                                                                            - _resetFunc: f0c14819
+                                                                                                                                            - _internalFlags: 0
+                                                                                                                                            - _varContainerType: {'__external__': 157}
+                                                                                                                                            - _varContentsType: {'__external__': 158}
+                                                                                                                                            - _varName: Idle
+                                                                                                                                            - _varIndex: -1
+                                                                                                                                - _RHS ->
+                                                                                                                                    ScriptGroupStack @0x531958 (already shown)
+                                                                                                                                - _indexRHS ->
+                                                                                                                                    ValueRHSVariant @0x530df0 (already shown)
+
+                                                                                                                            OpSetReference @0x5689c4
+                                                                                                                                - _name: set *reference||to
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+
+                                                                                                                                    ReferenceStack @0x5689f4
+                                                                                                                                        - _count: 1
+                                                                                                                                        - _capacity: 1
+                                                                                                                                        - _data: {'size': 4, 'data': <ref 0x568a0c>}
+
+                                                                                                                                        OpCreateVariable @0x568a10
+                                                                                                                                            - _name: create variable||with|members
+                                                                                                                                            - _directory: None
+                                                                                                                                            - _resolveState: True
+                                                                                                                                            - _getFunc: 80c14819
+                                                                                                                                            - _setFunc: c0c14819
+                                                                                                                                            - _resetFunc: f0c14819
+                                                                                                                                            - _internalFlags: 0
+                                                                                                                                            - _varContainerType: {'__external__': 157}
+                                                                                                                                            - _varContentsType: {'__external__': 158}
+                                                                                                                                            - _varName: Walk
+                                                                                                                                            - _varIndex: -1
+                                                                                                                                - _RHS ->
+                                                                                                                                    ScriptGroupStack @0x531958 (already shown)
+                                                                                                                                - _indexRHS ->
+                                                                                                                                    ValueRHSVariant @0x5319c8 (already shown)
+
+                                                                                                                            OpSetReference @0x568a44
+                                                                                                                                - _name: set *reference||to
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+
+                                                                                                                                    ReferenceStack @0x568a74
+                                                                                                                                        - _count: 1
+                                                                                                                                        - _capacity: 1
+                                                                                                                                        - _data: {'size': 4, 'data': <ref 0x568a8c>}
+
+                                                                                                                                        OpCreateVariable @0x568a90
+                                                                                                                                            - _name: create variable||with|members
+                                                                                                                                            - _directory: None
+                                                                                                                                            - _resolveState: True
+                                                                                                                                            - _getFunc: 80c14819
+                                                                                                                                            - _setFunc: c0c14819
+                                                                                                                                            - _resetFunc: f0c14819
+                                                                                                                                            - _internalFlags: 0
+                                                                                                                                            - _varContainerType: {'__external__': 157}
+                                                                                                                                            - _varContentsType: {'__external__': 158}
+                                                                                                                                            - _varName: Slide
+                                                                                                                                            - _varIndex: -1
+                                                                                                                                - _RHS ->
+                                                                                                                                    ScriptGroupStack @0x531958 (already shown)
+                                                                                                                                - _indexRHS ->
+                                                                                                                                    ValueRHSVariant @0x531ce4 (already shown)
+
+                                                                                                                            OpSetReference @0x568ac4
+                                                                                                                                - _name: set *reference||to
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+
+                                                                                                                                    ReferenceStack @0x568af4
+                                                                                                                                        - _count: 1
+                                                                                                                                        - _capacity: 1
+                                                                                                                                        - _data: {'size': 4, 'data': <ref 0x568b0c>}
+
+                                                                                                                                        OpCreateVariable @0x568b10
+                                                                                                                                            - _name: create variable||with|members
+                                                                                                                                            - _directory: None
+                                                                                                                                            - _resolveState: True
+                                                                                                                                            - _getFunc: 80c14819
+                                                                                                                                            - _setFunc: c0c14819
+                                                                                                                                            - _resetFunc: f0c14819
+                                                                                                                                            - _internalFlags: 0
+                                                                                                                                            - _varContainerType: {'__external__': 157}
+                                                                                                                                            - _varContentsType: {'__external__': 158}
+                                                                                                                                            - _varName: IdleLook
+                                                                                                                                            - _varIndex: -1
+                                                                                                                                - _RHS ->
+                                                                                                                                    ScriptGroupStack @0x531958 (already shown)
+                                                                                                                                - _indexRHS ->
+                                                                                                                                    ValueRHSVariant @0x530d2c (already shown)
+
+                                                                                                                            OpSetReference @0x568b44
+                                                                                                                                - _name: set *reference||to
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+
+                                                                                                                                    ReferenceStack @0x568b74
+                                                                                                                                        - _count: 1
+                                                                                                                                        - _capacity: 1
+                                                                                                                                        - _data: {'size': 4, 'data': <ref 0x568b8c>}
+
+                                                                                                                                        OpCreateVariable @0x568b90
+                                                                                                                                            - _name: create variable||with|members
+                                                                                                                                            - _directory: None
+                                                                                                                                            - _resolveState: True
+                                                                                                                                            - _getFunc: 80c14819
+                                                                                                                                            - _setFunc: c0c14819
+                                                                                                                                            - _resetFunc: f0c14819
+                                                                                                                                            - _internalFlags: 0
+                                                                                                                                            - _varContainerType: {'__external__': 157}
+                                                                                                                                            - _varContentsType: {'__external__': 158}
+                                                                                                                                            - _varName: Talk01
+                                                                                                                                            - _varIndex: -1
+                                                                                                                                - _RHS ->
+                                                                                                                                    ScriptGroupStack @0x531958 (already shown)
+                                                                                                                                - _indexRHS ->
+
+                                                                                                                                    ValueRHSVariant @0x568bc4
+                                                                                                                                        - _varOp1 ->
+
+                                                                                                                                            RHSValueStack @0x568be0
+                                                                                                                                                - _count: 0
+                                                                                                                                                - _capacity: 0
+                                                                                                                                                - _data: {'size': 0, 'data': None}
+                                                                                                                                                - _otherPoint: None
+                                                                                                                                                - _type: {'__external__': 146}
+                                                                                                                                                - _value: 7
+                                                                                                                                                - _isRandom: False
+                                                                                                                                        - _arithOperator: -1
+                                                                                                                                        - _varOp2: None
+                                                                                                                                        - _resultFunc: e01e4919
+                                                                                                                                        - _conditioner: None
+
+                                                                                                                            OpSetReference @0x568c08
+                                                                                                                                - _name: set *reference||to
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+
+                                                                                                                                    ReferenceStack @0x568c38
+                                                                                                                                        - _count: 1
+                                                                                                                                        - _capacity: 1
+                                                                                                                                        - _data: {'size': 4, 'data': <ref 0x568c50>}
+
+                                                                                                                                        OpCreateVariable @0x568c54
+                                                                                                                                            - _name: create variable||with|members
+                                                                                                                                            - _directory: None
+                                                                                                                                            - _resolveState: True
+                                                                                                                                            - _getFunc: 80c14819
+                                                                                                                                            - _setFunc: c0c14819
+                                                                                                                                            - _resetFunc: f0c14819
+                                                                                                                                            - _internalFlags: 0
+                                                                                                                                            - _varContainerType: {'__external__': 157}
+                                                                                                                                            - _varContentsType: {'__external__': 158}
+                                                                                                                                            - _varName: Chop(1)
+                                                                                                                                            - _varIndex: -1
+                                                                                                                                - _RHS ->
+                                                                                                                                    ScriptGroupStack @0x531958 (already shown)
+                                                                                                                                - _indexRHS ->
+                                                                                                                                    ValueRHSVariant @0x531ea8 (already shown)
+
+                                                                                                                            OpSetValue @0x568c88
+                                                                                                                                - _name: set value||=
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+
+                                                                                                                                    ValueStack @0x568cb4
+                                                                                                                                        - _count: 2
+                                                                                                                                        - _capacity: 2
+                                                                                                                                        - _data: {'size': 8, 'data': <ref 0x568cd0>}
+                                                                                                                                        - _otherPoint: None
+                                                                                                                                        OpCreateVariable @0x568c54 (already shown)
+                                                                                                                                - _RHS ->
+                                                                                                                                    ValueRHSVariant @0x530df0 (already shown)
+
+                                                                                                                            OpSetReference @0x568cd8
+                                                                                                                                - _name: set *reference||to
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+
+                                                                                                                                    ReferenceStack @0x568d08
+                                                                                                                                        - _count: 1
+                                                                                                                                        - _capacity: 1
+                                                                                                                                        - _data: {'size': 4, 'data': <ref 0x568d20>}
+
+                                                                                                                                        OpCreateVariable @0x568d24
+                                                                                                                                            - _name: create variable||with|members
+                                                                                                                                            - _directory: None
+                                                                                                                                            - _resolveState: True
+                                                                                                                                            - _getFunc: 80c14819
+                                                                                                                                            - _setFunc: c0c14819
+                                                                                                                                            - _resetFunc: f0c14819
+                                                                                                                                            - _internalFlags: 0
+                                                                                                                                            - _varContainerType: {'__external__': 157}
+                                                                                                                                            - _varContentsType: {'__external__': 158}
+                                                                                                                                            - _varName: Chop(2)
+                                                                                                                                            - _varIndex: -1
+                                                                                                                                - _RHS ->
+                                                                                                                                    ScriptGroupStack @0x531958 (already shown)
+                                                                                                                                - _indexRHS ->
+                                                                                                                                    ValueRHSVariant @0x531f6c (already shown)
+
+                                                                                                                            OpSetValue @0x568d58
+                                                                                                                                - _name: set value||=
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+
+                                                                                                                                    ValueStack @0x568d84
+                                                                                                                                        - _count: 2
+                                                                                                                                        - _capacity: 2
+                                                                                                                                        - _data: {'size': 8, 'data': <ref 0x568da0>}
+                                                                                                                                        - _otherPoint: None
+                                                                                                                                        OpCreateVariable @0x568d24 (already shown)
+                                                                                                                                - _RHS ->
+                                                                                                                                    ValueRHSVariant @0x530df0 (already shown)
+
+                                                                                                                            OpSetReference @0x568da8
+                                                                                                                                - _name: set *reference||to
+                                                                                                                                - _directory: None
+                                                                                                                                - _resolveState: True
+                                                                                                                                - _getFunc: 00000000
+                                                                                                                                - _setFunc: 00000000
+                                                                                                                                - _resetFunc: 00000000
+                                                                                                                                - _internalFlags: 0
+                                                                                                                                - _LHS ->
+
+                                                                                                                                    ReferenceStack @0x568dd8
+                                                                                                                                        - _count: 1
+                                                                                                                                        - _capacity: 1
+                                                                                                                                        - _data: {'size': 4, 'data': <ref 0x568df0>}
+
+                                                                                                                                        OpCreateVariable @0x568df4
+                                                                                                                                            - _name: create variable||with|members
+                                                                                                                                            - _directory: None
+                                                                                                                                            - _resolveState: True
+                                                                                                                                            - _getFunc: 80c14819
+                                                                                                                                            - _setFunc: c0c14819
+                                                                                                                                            - _resetFunc: f0c14819
+                                                                                                                                            - _internalFlags: 0
+                                                                                                                                            - _varContainerType: {'__external__': 157}
+                                                                                                                                            - _varContentsType: {'__external__': 158}
+                                                                                                                                            - _varName: Chop(3)
+                                                                                                                                            - _varIndex: -1
+                                                                                                                                - _RHS ->
