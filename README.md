@@ -1,7 +1,7 @@
 # Madagascar 2 `.bld` level format
 
 ## DISCLAMER: THIS IS COMPLETELY AI GENERATED
-IM SORRY FOR MY SINS 😭
+
 
 Fully reverse-engineered reader for Madagascar 2 (PC) level files, plus the tool
 that recovers the engine's reflection metadata from the game DLLs.
